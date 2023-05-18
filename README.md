@@ -1,1 +1,1 @@
-# Neural-Fields
+# Neural Fields in Principle
